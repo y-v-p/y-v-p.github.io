@@ -51,27 +51,27 @@ MathJax.Hub.Config({
       </a>
 
       <div class="trigger">
-        
-          
+
+
           <a class="page-link" href="/about/">About the author</a>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
+
+
+
+
+
+
+
+
+
+
+
           <a class="page-link" href="/css/%D0%BF%D0%BE%D1%82%D0%BE%D0%BA_%D1%81%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F.html"></a>
-          
-        
-          
+
+
+
           <a class="page-link" href="/scripts/external_scripts/katex/"></a>
-          
-        
+
+
       </div>
     </nav>
 
@@ -87,7 +87,7 @@ MathJax.Hub.Config({
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
-    
+
       <li>
         <span class="post-meta">Apr 20, 2017</span>
 
@@ -95,7 +95,7 @@ MathJax.Hub.Config({
           <a class="post-link" href="/2017/04/20/machine-learning-in-science-and-industry.html">Machine Learning in Science and Industry slides</a>
         </h2>
       </li>
-    
+
       <li>
         <span class="post-meta">Dec 19, 2016</span>
 
@@ -103,8 +103,8 @@ MathJax.Hub.Config({
           <a class="post-link" href="/2016/12/19/markov_chain_monte_carlo.html">Hamiltonian Monte Carlo explained</a>
         </h2>
       </li>
-    
-    
+
+
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="/feed.xml">via RSS</a></p>
@@ -198,7 +198,7 @@ MathJax.Hub.Config({
 
       <div class="footer-col  footer-col-2">
         <ul class="social-media-list">
-          
+
           <li>
             <a href="https://github.com/y-v-p">
               <span class="icon  icon--github">
@@ -210,9 +210,9 @@ MathJax.Hub.Config({
               <span class="username">y-v-p</span>
             </a>
           </li>
-          
 
-          
+
+
         </ul>
       </div>
 
@@ -242,4 +242,3 @@ MathJax.Hub.Config({
   </body>
 
 </html>
-
